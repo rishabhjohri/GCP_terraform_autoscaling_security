@@ -205,11 +205,6 @@ sudo systemctl start nginx
 
 ---
 
-## 📜 Deliverables
-- **📄 Documentation**: Step-by-step setup guide.
-- **🖼 Architecture Design**: [Link to Diagram](link_to_your_architecture_diagram)
-- **💾 Source Code**: [GitHub Repository](link_to_your_repo)
-- **📹 Video Demo**: [Link to Video](link_to_your_video)
 
 ---
 
