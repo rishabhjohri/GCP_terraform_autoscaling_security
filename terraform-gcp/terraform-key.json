@@ -1,10 +1,9 @@
 {
-  "type": "service_account",
-  "project_id": "peaceful-bruin-450521-c6",
-  "private_key_id": "be59c6c5558b9ffdf1cd53e280cb5f10d6235d65",
-  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCmQ269eItWoCwK\nnFxBSkXNCdvzEivhvGPrvobv8SNkY7JlrLG9e9sGTHpsQGNpTiw11KdfYJjevFIS\ngjfaF1leD6a1jNlMMiNnVaUZihAHFQaACUikWk9nhuK6OgFOFcRTmKExEgEcomuu\nOJ4D6+AgV6baZToPD+53J1QRt0kTLWx4QeIWS/murxLdpAfHLoA4Kyq54vgWfTpk\nh7C/PmL7M4Y7Vh82xORFiYTXS7TGpTCz1IBzfpbWK05SofCWuDnlQCqepzXKneJL\nNbfIHCJtH9Ae+I8KYvqnl5T0IKUEuzxW3H9LafNEjjnT7WvpHSYNtbG1cqeI1NAM\nodFPpOJVAgMBAAECggEAGyUvU2f29/G2vxTASzihJNTTQGBbIcPsXHUC+vHX4XAV\nlFwZuOIb5G9gHYR1tp+4wCE0InJXAyakD7mK/OSLBrxvb3zLjZEyDpEBH6ZW75ET\nOpxJa+wCwthW9Ci8Rc9v+mYVCznxTIeIJS3BPsqoER++cjHMxODJAlM9epb+K08f\nkOQnwmPTG5fPQfIodMZ869oPlr9pd+RCucWjfuKbc0Z7pzQC9tqLUWBJTef6Hwm/\nBli0o1lcmrLCbwIc/qgnZ2mb9ompcI0iiiWAolgyXN86xtMXpOWK33GNIPhQA2AV\nIcjGtbm3yXVuZ1dfLik3g2GYn4R0tskexunJF2cRgQKBgQDjo3rQ3Gz4LhUcKuBK\nydVsRlOQ3U1Iv7ypk97U1q9YMgo07HJo3VRXATnq4Z8NMbgO0KGWKLqSHpF7U2ZW\n5VEcORnwYyWPS2QYvkQqoQm6ADZEql107P5AhBhMWezxg5pBGmRAvdApGtf0rADH\nIrhTpMuII2k7fP+vlbudo++M+QKBgQC6+mUN0M0rbuwywaj67wShDC8uRkMvf8Q8\nQzR003RJI0Pytx2nu/m8KYYuuN+pnXJk+Lzws+SnT8fUS2XN7WE6laKnU/eN8dBY\nvIGDxxBhmugFnc7psL6YhiebnEXcYE0WXuBa6pyf4gC6kAEotbt8pcECyPF9xN/O\n1Kw0+2xjPQKBgQC03KCp7VhO3x46oP5PrYj6W+3tPUc4M87L1QbIiEIMisV9Qxer\npZ5q+jhwHA7oxsX8T1rzGS0TB2KDX8IB7HTDPcMUMVIYRcgjuJgkXoqB08VKTSmv\nytQ/ojREBXaydONMMpHQtn77Ca7nYPnFPhrBqj9jzO7BKxFjCk5kc2nS0QKBgGd0\nBZe4UNzYOb33oux8dR46ZJyA6cmNMuF4+bwuByg0Z/MSWEknW409mG2fgrkRUWsG\nqVuw3TGpldIjiYd/8Qz+IAnfDpiuE+4VFr/301t93yTEZOiuDzbK+31A4PKHIf/f\nrNkA+HoKDQcsiEejDcJw37MPxXYmCQMibsm91wGtAoGBAIqNvO9jn2Qe0eJbyZXb\nkWW5wFKG+VfQwfKiQGQIqYUJw/skcs3d+7pf0z+XWOLa84vfd+2WKc0p9mUw94Tt\nVqNrdEIAfXN5Z7vytS/i2dkOtTtKAMJjKZv+BW+/qSmMxM0s8HOvRYjaMHywDbBj\no7LUGVEcqmY0uPa5BCuQqhmC\n-----END PRIVATE KEY-----\n",
-  "client_email": "terraform-sa@peaceful-bruin-450521-c6.iam.gserviceaccount.com",
-  "client_id": "117039721299169676649",
+  "type": [REDACTED],
+  "project_id": [REDACTED],
+  "private_key_id": [REDACTED],
+  "private_key":[REDACTED]
+  "client_id": [REDACTED],
   "auth_uri": "https://accounts.google.com/o/oauth2/auth",
   "token_uri": "https://oauth2.googleapis.com/token",
   "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
