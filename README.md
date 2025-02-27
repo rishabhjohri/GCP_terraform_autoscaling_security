@@ -6,8 +6,6 @@ This project demonstrates the setup of a **Virtual Machine (VM) on Google Cloud 
 - **Firewall rules** for securing the VM.
 - **IAM role configurations** for restricted access.
 
-## Architecture
-![Architecture Diagram](link_to_your_architecture_diagram)
 
 ## Technologies Used
 - **Google Cloud Platform (GCP)**
